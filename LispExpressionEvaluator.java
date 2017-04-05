@@ -200,7 +200,7 @@ public class LispExpressionEvaluator
     			}
     			
     			if (!evaluationStack.empty()) {
-    				result = ((temp * temp)* result);
+    				result = temp;
     				
     				while(!evaluationStack.empty()) {
     				result /= evaluationStack.pop();
