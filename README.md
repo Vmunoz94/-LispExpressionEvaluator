@@ -1,4 +1,4 @@
-# -LispExpressionEvaluator
+# LispExpressionEvaluator
 CSC220 Programming Project #2
 =============================
  
