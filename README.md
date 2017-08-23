@@ -1,8 +1,5 @@
 CSC220 Programming Project #2
 =============================
- 
-Due Date: 23:55pm, Wednesday, 4/5/2017, 
-          upload LispExpressionEvaluator.java to ilearn
 
 - You need to implement LispExpressionEvaluator.java which uses Java API Stack
   See project requirements in LispExpressionEvaluator.java
